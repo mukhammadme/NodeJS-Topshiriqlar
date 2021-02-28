@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "nodeJS",
+    "tutorials",
+    "js"
+  ],
+  "author": "Mukhammad Pardaboev",
+  "license": "MTI"
 }
