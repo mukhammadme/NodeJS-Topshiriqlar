@@ -17,3 +17,12 @@ describe('absolute', () => {
         expect(result).toBe(0);
     });
 });
+
+describe('greet', () => {
+    it('should return the greeting massage', () => {
+        const result = myLib.greet('Linc');
+
+        // expect(result).toContain('Linc');
+        expect(result).toMatch(/Linc/);
+    });
+});
